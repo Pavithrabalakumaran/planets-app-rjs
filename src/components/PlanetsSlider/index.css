@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.slider-container {
+  background-color: navy;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
